@@ -365,19 +365,19 @@ a{
 }
 
 #project1{
-    background-image: url(/PORTFOLIO/images/projects/Project1.png);
+    background-image: url(images/projects/Project1.png);
     align-self: start;
 } 
 #project2{
-    background-image: url(/PORTFOLIO/images/projects/Project2.png);
+    background-image: url(images/projects/Project2.png);
     align-self: end;
 } 
 #project3{
-    background-image: url(/PORTFOLIO/images/projects/Project3.png);
+    background-image: url(images/projects/Project3.png);
     align-self: start;
 } 
 #project4{
-    background-image: url(/PORTFOLIO/images/projects/Project4.png);
+    background-image: url(images/projects/Project4.png);
     align-self: end;
 } 
 
